@@ -1,5 +1,7 @@
 # 🎯 R6S-Companion
 
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/72ad969d-e9ff-4963-975b-abbac157d3e9" />
+
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/shield.png" alt="R6S Companion" width="140" height="140">
 </p>
